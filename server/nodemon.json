@@ -1,0 +1,9 @@
+{
+  "watch": ["."],
+  "ext": "js,json,.env",
+  "ignore": ["node_modules", "*.test.js", "chitti_superdb.sqlite"],
+  "delay": "300",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
